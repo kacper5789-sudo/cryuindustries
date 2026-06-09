@@ -1,0 +1,23 @@
+export const reviews = [
+  { id: 1, author: "Ślub BMW X5", text: "Mieliśmy przyjemność jechać BMW X5 do ślubu. Samochód przygotowany idealnie, czysty i bardzo wygodny. Kierowca Filip punktualny i pomocny, bardzo dobry kontakt przed. Szczerze polecam!" },
+  { id: 2, author: "Aleksandra Gospodarek", text: "Bardzo polecam skorzystanie z usług tej firmy! BMW X5 do ślubu, auto robi mega wrażenie, czystość i wyposażenie na wysokim poziomie…" },
+  { id: 3, author: "Aneta Gąsińska", text: "AUDI Q5 do ślubu – auto przygotowane perfekcyjnie, czyste i zadbane, pełen profesjonalizm." },
+  { id: 4, author: "Aneta Dobrzycka", text: "BMW X4 biały – wszystko jak w zegarku, pełna klasa i profesjonalizm Filipa." },
+  { id: 5, author: "Alek Up", text: "Samochód w idealnym stanie, woda i dodatki dla pasażerów, kierowca bardzo kulturalny i pomocny." },
+  { id: 6, author: "Natalia Gos", text: "Super atmosfera w aucie, miły kierowca, muzyka, woda, wszystko na plus!" },
+  { id: 7, author: "Martyna Kosińska", text: "Auto piękne, zadbane, kontakt idealny, wszystko na czas – idealne na ślub." },
+  { id: 8, author: "Michał J", text: "Perfekcyjny stan auta, pełna kultura kierowcy, bardzo polecam." },
+  { id: 9, author: "Milena Kozłowska", text: "Profesjonalizm na najwyższym poziomie, bardzo dobry kontakt i przygotowanie auta." },
+  { id: 10, author: "Paweł Kacperski", text: "Pełna profeska, wszystko punktualnie, czysto i elegancko." },
+  { id: 11, author: "Artur Podgórski", text: "Najlepsza usługa transportu na ślub – wszystko idealnie zorganizowane." },
+  { id: 12, author: "Dominik Stanios", text: "Wszystko na czas, bardzo miła atmosfera w aucie." },
+  { id: 13, author: "Daniel Wróblewski", text: "Pełen profesjonalizm, idealne auto do ślubu." },
+  { id: 14, author: "Marcin Słowikowski", text: "BMW X4 – wszystko zgodnie z ustaleniami, bardzo polecam." },
+  { id: 15, author: "Marcin Dębski", text: "Audi A5 – bezproblemowo i profesjonalnie." },
+  { id: 16, author: "Paulina Wójcik", text: "Auto jak nowe, kierowca super, polecam." },
+  { id: 17, author: "Patryk Mikulski", text: "Profesjonalne podejście, polecam chłopaków." },
+  { id: 18, author: "KavSify", text: "Rzetelna obsługa, bardzo dobre auto." },
+  { id: 19, author: "Adrian Siara", text: "Pełen profesjonalizm." },
+  { id: 20, author: "Martyna Świerszcz", text: "Wszystko na najwyższym poziomie." },
+  { id: 21, author: "Dominik Stępień", text: "Wszystko perfekcyjnie, polecam." }
+];
